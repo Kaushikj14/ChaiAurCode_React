@@ -1,4 +1,4 @@
-// here we will be writting all the services
+// here we will be writting all the services (Important code snippet)
 import conf from '../conf/conf.js'
 import {Client,Account,ID} from  "appwrite";
 
